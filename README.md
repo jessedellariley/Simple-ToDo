@@ -20,7 +20,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] User can understand app functionality better using **icons, styling, color, and spacing**
+* [ ] User can **add a due date** for each todo item
+* [ ] User can **select priority** of each item
+* [ ] User can **sort todo items by due date or priority**
 
 ## Video Walkthrough
 
